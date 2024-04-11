@@ -46,8 +46,8 @@
 ---
 ### Links a mis redes
 
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="15">](https://www.instagram.com/cienciaenarte/) [Instagram](https://www.instagram.com/cienciaenarte/)
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" width="15">](https://www.youtube.com/channel/UC45JuojWPjY92isuQCyKIdQ/) [YouTube](https://www.youtube.com/channel/UC45JuojWPjY92isuQCyKIdQ)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="20">](https://www.instagram.com/cienciaenarte/) [Instagram](https://www.instagram.com/cienciaenarte/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" width="20">](https://www.youtube.com/channel/UC45JuojWPjY92isuQCyKIdQ/) [YouTube](https://www.youtube.com/channel/UC45JuojWPjY92isuQCyKIdQ)
 
 
 ---
