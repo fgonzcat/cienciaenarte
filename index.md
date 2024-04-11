@@ -46,7 +46,7 @@
 ---
 ### Links a mis redes
 
-- [Instagram](https://www.instagram.com/cienciaenarte/)
+- <i class="fab fa-instagram"></i>[Instagram](https://www.instagram.com/cienciaenarte/)
 - [YouTube](https://www.youtube.com/channel/UC45JuojWPjY92isuQCyKIdQ)
 
 ---
