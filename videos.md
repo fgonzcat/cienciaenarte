@@ -15,7 +15,7 @@
 </a>
 </div>
 
-
+---
 ## Campos Magnéticos en Exoplanetas
 <div style="display: flex; justify-content: space-between;">
     <a href="https://www.instagram.com/reel/Cpd0mfLDvNn/?hl=en"  target="_blank"  style="width: 30%;">
@@ -23,7 +23,7 @@
     </a>
 </div>
 
-
+---
 ## Pintando
 
 ### Kepler
