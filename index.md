@@ -30,14 +30,14 @@
 ---
 ## Videos 
 <div style="display: flex; justify-content: space-between;">
-    <a href="/cienciaenarte/videos">
-        <img src="images/pinte_a_Kepler.png?raw=true" style="width: 30%;" />
+    <a href="/cienciaenarte/videos"  style="width: 30%;">
+        <img src="images/pinte_a_Kepler.png?raw=true" style="width: 100%;" />
     </a>
-    <a href="/cienciaenarte/videos">
-        <img src="images/magma_campos_magneticos.png?raw=true" style="width: 30%;" />
+    <a href="/cienciaenarte/videos"  style="width: 30%;">
+        <img src="images/magma_campos_magneticos.png?raw=true" style="width: 100%;" />
     </a>
-    <a href="/cienciaenarte/videos">
-        <img src="images/extincion_y_sorpresa.png?raw=true" style="width: 30%;" />
+    <a href="/cienciaenarte/videos" style="width: 30%;">
+        <img src="images/extincion_y_sorpresa.png?raw=true" style="width: 100%;" />
     </a>
 </div>
 
