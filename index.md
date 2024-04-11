@@ -4,7 +4,7 @@
 
 ## Retratos
 
-[Ver más](/sample_page)
+[Ver más retratos](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,17 +17,15 @@
 [Ver más planetas/galaxias](/sample_page)
 <img src="images/planetas.jpg?raw=true"/>
 
----
-## Planetas
-[Ver más planetas/galaxias](/sample_page)
-<img src="images/planetas.jpg?raw=true"/>
 
 ---
 ## Científicos
 [Ver más científicos](/sample_page)
-<img src="images/sagan.jpg?raw=true"/>
-<img src="images/Maxwell.jpg?raw=true"/>
-<img src="images/Herschel.jpg?raw=true"/>
+<div style="display: flex; justify-content: space-between;">
+    <img src="images/sagan.png?raw=true" style="width: 30%;" />
+    <img src="images/Maxwell.jpg?raw=true" style="width: 30%;" />
+    <img src="images/Herschel.jpg?raw=true" style="width: 30%;" />
+</div>
 
 ---
 
