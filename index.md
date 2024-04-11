@@ -31,8 +31,8 @@
 
 ### Links a mis redes
 
-- [Instagram]([http://example.com/]([https://www.instagram.com/stories](https://www.instagram.com/cienciaenarte/)
-- [YouTube]([http://example.com/](https://www.youtube.com/channel/UC45JuojWPjY92isuQCyKIdQ))
+- [Instagram](https://www.instagram.com/cienciaenarte/)
+- [YouTube](https://www.youtube.com/channel/UC45JuojWPjY92isuQCyKIdQ)
 
 ---
 
