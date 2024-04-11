@@ -18,7 +18,7 @@
 
 ## Campos Magnéticos en Exoplanetas
 <div style="display: flex; justify-content: space-between;">
-    <a href="https://www.instagram.com/reel/Cpd0mfLDvNn/?hl=en"  style="width: 30%;">
+    <a href="https://www.instagram.com/reel/Cpd0mfLDvNn/?hl=en"  target="_blank"  style="width: 30%;">
         <img src="images/magma_campos_magneticos.png?raw=true" style="width: 100%;" />
     </a>
 </div>
@@ -28,7 +28,7 @@
 
 ### Kepler
 <div style="display: flex; justify-content: space-between;">
-    <a href="https://youtu.be/UMq3AOz4deY"  style="width: 30%;">
+    <a href="https://youtu.be/UMq3AOz4deY"  target="_blank"  style="width: 30%;">
         <img src="images/pinte_a_Kepler.png?raw=true" style="width: 100%;" />
     </a>
 </div>
