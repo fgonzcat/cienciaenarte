@@ -4,23 +4,23 @@
 
 ## Retratos
 
-[Ver más retratos](/sample_page)
+[Ver más retratos](/cienciaenarte/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 ## Pinturas
-[Ver más pinturas](/sample_page)
+[Ver más pinturas](/cienciaenarte/sample_page)
 <img src="images/solvay.png?raw=true"/>
 
 ---
 ## Planetas
-[Ver más planetas/galaxias](/sample_page)
+[Ver más planetas/galaxias](/cienciaenarte/sample_page)
 <img src="images/planetas.jpg?raw=true"/>
 
 
 ---
 ## Científicos
-[Ver más científicos](/sample_page)
+[Ver más científicos](/cienciaenarte/sample_page)
 <div style="display: flex; justify-content: space-between;">
     <img src="images/sagan.png?raw=true" style="width: 30%;" />
     <img src="images/Maxwell.jpg?raw=true" style="width: 30%;" />
