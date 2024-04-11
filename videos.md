@@ -17,6 +17,7 @@
 
 ---
 ## Colaboraciones con Felipe González
+### Campos Magnéticos en Exoplanetas
 <div style="display: flex; justify-content: space-between;">
     <a href="https://www.instagram.com/reel/Cpd0mfLDvNn/?hl=en"  target="_blank"  style="width: 30%;">
         <img src="images/magma_campos_magneticos.png?raw=true" style="width: 100%;" />
