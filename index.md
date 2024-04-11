@@ -28,6 +28,16 @@
 </div>
 
 ---
+## Videos 
+[Ver más científicos](/cienciaenarte/videos)
+<div style="display: flex; justify-content: space-between;">
+    <img src="images/pinte_a_Kepler.png?raw=true" style="width: 30%;" />
+    <img src="images/magma_campos_magneticos.png?raw=true" style="width: 30%;" />
+    <img src="images/extincion_y_sorpresa.png?raw=true" style="width: 30%;" />
+</div>
+
+
+---
 
 ### Links a mis redes
 
