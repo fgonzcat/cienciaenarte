@@ -46,10 +46,12 @@
 ---
 ### Links a mis redes
 
-- <i class="fab fa-instagram"></i>[Instagram](https://www.instagram.com/cienciaenarte/)
+- [Instagram](https://www.instagram.com/cienciaenarte/)
+- [![Instagram](https://www.splitanatom.com/wp-content/uploads/2018/03/Instagram-Icon-Transparent.png.webp)](https://www.instagram.com/cienciaenarte/)
 - [YouTube](https://www.youtube.com/channel/UC45JuojWPjY92isuQCyKIdQ)
 
 ---
+
 
 
 
