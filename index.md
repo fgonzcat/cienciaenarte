@@ -47,7 +47,7 @@
 ### Links a mis redes
 
 - [Instagram](https://www.instagram.com/cienciaenarte/)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram-color.svg" width="50">](https://www.instagram.com/cienciaenarte/) [Instagram](https://www.instagram.com/cienciaenarte/)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="20">](https://www.instagram.com/cienciaenarte/) [Instagram](https://www.instagram.com/cienciaenarte/)
 - [YouTube](https://www.youtube.com/channel/UC45JuojWPjY92isuQCyKIdQ)
 
 ---
