@@ -1,7 +1,21 @@
 # Portfolio
 
 ---
+## Videos
+[Ver más videos](/cienciaenarte/videos) 
+<div style="display: flex; justify-content: space-between;">
+    <a href="/cienciaenarte/videos"  style="width: 30%;">
+        <img src="images/pinte_a_Kepler.png?raw=true" style="width: 100%;" />
+    </a>
+    <a href="/cienciaenarte/videos"  style="width: 30%;">
+        <img src="images/magma_campos_magneticos.png?raw=true" style="width: 100%;" />
+    </a>
+    <a href="/cienciaenarte/videos" style="width: 30%;">
+        <img src="images/extincion_y_sorpresa.png?raw=true" style="width: 100%;" />
+    </a>
+</div>
 
+---
 ## Retratos
 
 [Ver más retratos](/cienciaenarte/sample_page)
@@ -27,23 +41,9 @@
     <img src="images/Herschel.jpg?raw=true" style="width: 30%;" />
 </div>
 
----
-## [Videos](/cienciaenarte/videos) 
-<div style="display: flex; justify-content: space-between;">
-    <a href="/cienciaenarte/videos"  style="width: 30%;">
-        <img src="images/pinte_a_Kepler.png?raw=true" style="width: 100%;" />
-    </a>
-    <a href="/cienciaenarte/videos"  style="width: 30%;">
-        <img src="images/magma_campos_magneticos.png?raw=true" style="width: 100%;" />
-    </a>
-    <a href="/cienciaenarte/videos" style="width: 30%;">
-        <img src="images/extincion_y_sorpresa.png?raw=true" style="width: 100%;" />
-    </a>
-</div>
 
 
 ---
-
 ### Links a mis redes
 
 - [Instagram](https://www.instagram.com/cienciaenarte/)
