@@ -5,8 +5,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Comunicador audiovisual digital y artista visual con enfoque en la divulgación científica 
   <br><br>
-  <a href="https://www.instagram.com/cienciaenarte/">@cienciaenarte</a> 
-   
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="20"><a href="https://www.instagram.com/cienciaenarte/" target="_blank">@cienciaenarte</a> 
+
+ 
 remote_theme: pages-themes/minimal@v0.2.0
 #remote_theme: pages-themes/merlot@v0.2.0
 #remote_theme: pages-themes/leap-day@v0.2.0
