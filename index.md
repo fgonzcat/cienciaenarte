@@ -2,28 +2,39 @@
 
 ---
 
-## Category Name 1 
+## Retratos
 
-[Retratos](/sample_page)
+[Ver más](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Pinturas](/sample_page)
+## Pinturas
+[Ver más pinturas](/sample_page)
 <img src="images/solvay.png?raw=true"/>
 
 ---
-[Planetas](/sample_page)
+## Planetas
+[Ver más planetas/galaxias](/sample_page)
 <img src="images/planetas.jpg?raw=true"/>
 
 ---
+## Planetas
+[Ver más planetas/galaxias](/sample_page)
+<img src="images/planetas.jpg?raw=true"/>
 
-### Category Name 2
+---
+## Científicos
+[Ver más científicos](/sample_page)
+<img src="images/sagan.jpg?raw=true"/>
+<img src="images/Maxwell.jpg?raw=true"/>
+<img src="images/Herschel.jpg?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+
+### Links a mis redes
+
+- [Instagram]([http://example.com/]([https://www.instagram.com/stories](https://www.instagram.com/cienciaenarte/)
+- [YouTube]([http://example.com/](https://www.youtube.com/channel/UC45JuojWPjY92isuQCyKIdQ))
 
 ---
 
