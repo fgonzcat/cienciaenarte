@@ -28,7 +28,7 @@
 </div>
 
 ---
-## Videos 
+## [Videos](/cienciaenarte/videos) 
 <div style="display: flex; justify-content: space-between;">
     <a href="/cienciaenarte/videos"  style="width: 30%;">
         <img src="images/pinte_a_Kepler.png?raw=true" style="width: 100%;" />
