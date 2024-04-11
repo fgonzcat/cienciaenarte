@@ -1,12 +1,13 @@
 title: Francesca Valentina Marino  # your name (or website title) here
 #logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Digital creator
-  <br><br>
-  Comunicador audiovisual digital y artista visual con enfoque en la divulgación científica 
-  <br><br>
-  <a href="https://www.instagram.com/cienciaenarte/">@cienciaenarte</a> 
-    
+#description: > # your text below (remove <br> elements if you don't need line breaks)
+#  Digital creator
+#  <br><br>
+#  Comunicador audiovisual digital y artista visual con enfoque en la divulgación científica 
+#  <br><br>
+#  <a href="https://www.instagram.com/cienciaenarte/">@cienciaenarte</a> 
+description: [Digital creator, Comunicador audiovisual digital y artista visual con enfoque en la divulgación científica]
+   
 #remote_theme: pages-themes/minimal@v0.2.0
 remote_theme: pages-themes/architect@v0.2.0
 #remote_theme: pages-themes/leap-day@v0.2.0
