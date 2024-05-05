@@ -1,18 +1,3 @@
-# Francesca Valentina Marino 
-Francesca Marino GitHub <a href="https://fgonzcat.github.io/cienciaenarte/" target="_blank">website</a>
+### [ml4psp.github.io](https://ml4psp.github.io/)
 
-----
-### Comunicador audiovisual digital y artista visual con enfoque en la divulgación científica
-
-
-----
-### What you can find here
-
-* [My website](https://fgonzcat.github.io/cienciaenarte/)
-
-___
-### Other places you can find me
-
-* [Instagram](https://www.instagram.com/cienciaenarte/)
-* [YouTube](https://www.youtube.com/channel/UC45JuojWPjY92isuQCyKIdQ)
-
+Website of the Machine Learning for Planetary Space Physics community and seminar series. Managed by ML4PSP organizers.
