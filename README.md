@@ -1,6 +1,5 @@
 # Francesca Valentina Marino 
-Francesca Marino GitHub <a href="https://fgonzcat.github.io/cienciaenarte/" target="_blank" rel="noopener noreferrer" onclick="window.open(this.href, '_blank'); return false;">website</a>
-Francesca Marino GitHub - [website](https://fgonzcat.github.io/cienciaenarte/) (open in new tab)
+Francesca Marino GitHub - [website](https://fgonzcat.github.io/cienciaenarte/)
 
 
 
