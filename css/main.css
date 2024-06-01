@@ -2932,7 +2932,7 @@
 		top: 0;
 		width: 100%;
 		display: none;
-                z-index: 1000;
+                z-index: -1;
 	}
 
 		.navPanelToggle:before {
@@ -2942,6 +2942,7 @@
 			font-style: normal;
 			font-weight: normal;
 			text-transform: none !important;
+			z-index: -1;
 		}
 
 		@media screen and (max-width: 980px) {
@@ -2965,6 +2966,7 @@
 			text-align: center;
 			top: 0.5em;
 			width: 3.5em;
+			z-index: -1;
 		}
 
 	#navPanel {
@@ -2989,7 +2991,6 @@
 		width: 20em;
 		padding: 0.5em 1.25em;
 		text-transform: uppercase;
-    z-index: 999; /* Nav panel below the links */
 	}
 
 		#navPanel ul {
