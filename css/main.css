@@ -2932,6 +2932,7 @@
 		top: 0;
 		width: 100%;
 		display: none;
+                z-index: 1000;
 	}
 
 		.navPanelToggle:before {
