@@ -71,3 +71,21 @@
 	});
 
 })(jQuery);
+
+document.addEventListener('DOMContentLoaded', function () {
+    // Select the container of image links
+    var linkContainer = document.querySelector('.link-container');
+
+    // Add event listener to the container to handle clicks on image links
+    linkContainer.addEventListener('click', function (event) {
+        // Check if the clicked element is an image link
+        if (event.target.tagName === 'IMG') {
+            // Prevent the default link behavior
+            event.preventDefault();
+            // Get the URL of the clicked image link
+            var url = event.target.closest('a').getAttribute('href');
+            // Navigate to the URL
+            window.location.href = url;
+        }
+    });
+});
