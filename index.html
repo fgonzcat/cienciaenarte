@@ -51,21 +51,6 @@
     </section>
 
 
-    <style>
-        #navPanel {
-            pointer-events: none; /* Prevents the panel from blocking clicks */
-        }
-    
-        #navPanel a {
-            pointer-events: all; /* Allows clicks on the links within the panel */
-        }
-    
-        .link-container a {
-            position: relative;
-            z-index: 1000;
-        }
-    </style>
-
     <!-- One 
     <section id="one" class="wrapper style1">
         <div class="container">
@@ -89,15 +74,33 @@
     </section> -->
 
     <!-- One Alternative -->
-    <section id="three" class="wrapper style1">
+    <section id="one" class="wrapper style1">
         <div class="container">
             <header class="major">
                         <h2>Portafolio</h2>
                         <p>Ciencia en Arte</p>
             </header>
-            <ul class="actions">
-                <li><a href="videos.html" class="button special big">Videos</a></li>
-            </ul>
+        </div>
+    </section>
+
+    <!-- Two -->
+    <section id="two" class="wrapper style2 special">
+        <div class="container">
+            <header class="major">
+                <h2>Videos</h2>
+	         <div style="display: flex; justify-content: space-between;">
+                        <a href="videos.html" style="width: 30%;">
+                            <img src="images/pinte_a_Kepler.png" style="width: 100%;" />
+                        </a>
+                        <a href="videos.html" style="width: 30%;">
+                            <img src="images/magma_campos_magneticos.png" style="width: 100%;" />
+                        </a>
+                        <a href="videos.html" style="width: 30%;">
+                            <img src="images/extincion_y_sorpresa.png" style="width: 100%;" />
+                        </a>
+        	</div>
+            </header>
+            <p><a href="videos.html">Ver más videos</a></p>
         </div>
     </section>
 
@@ -119,7 +122,7 @@
                 <h2>Pinturas</h2>
             </header>
             <p><a href="videos.html">Ver más pinturas</a></p>
-            <img src="images/solvay.png?raw=true" style="width: 80%;" />
+            <img src="images/solvay.png" style="width: 80%;" />
         </div>
     </section>
     
