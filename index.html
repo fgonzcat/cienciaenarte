@@ -11,8 +11,23 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="assets/css/main.css" />
-	</head>
-	<body class="landing">
+       <style>
+        .link-container a {
+            display: inline-block;
+            position: relative;
+            z-index: 1000;
+            width: 30%;
+        }
+        .link-container a img {
+            width: 100%;
+            height: auto;
+        }
+        #navPanel {
+            z-index: 999;
+        }
+    </style>
+   </head>
+    <body class="landing">
     <!-- Header -->
     <header id="header" class="alt">
         <!--
@@ -164,16 +179,5 @@
     <script src="assets/js/skel.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
-    <script>
-    document.addEventListener('DOMContentLoaded', function () {
-        var links = document.querySelectorAll('.link-container a');
-        links.forEach(function (link) {
-            link.addEventListener('click', function (event) {
-                event.stopPropagation(); // Prevent the navPanel toggle from interfering
-                window.location.href = link.href;
-            });
-        });
-    });
-    </script>
 </body>
 </html>
