@@ -35,6 +35,18 @@
         <p>Comunicador audiovisual digital y artista visual con enfoque en la divulgación científica  </p>
     </section>
 
+    <!-- Make sure the links have a higher z-index than the navigation panel. This can ensure that the links are clickable. -->
+    <style>
+        .link-container a {
+            position: relative;
+            z-index: 2;
+        }
+        #navPanel {
+            z-index: 1;
+        }
+    </style>
+
+
     <!-- One -->
     <section id="one" class="wrapper style1">
         <div class="container 75%">
