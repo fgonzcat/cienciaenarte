@@ -36,6 +36,21 @@
     </section>
 
 
+    <style>
+        #navPanel {
+            pointer-events: none; /* Prevents the panel from blocking clicks */
+        }
+    
+        #navPanel a {
+            pointer-events: all; /* Allows clicks on the links within the panel */
+        }
+    
+        .link-container a {
+            position: relative;
+            z-index: 2;
+        }
+    </style>
+
     <!-- One -->
     <section id="one" class="wrapper style1">
         <div class="container 75%">
